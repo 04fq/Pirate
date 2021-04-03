@@ -20,3 +20,8 @@
 ### Windows
 * Windows Will Added In The Next Version
 ### Termux
+* pkg install git
+* git clone https://github.com/04fq/Pirate.git
+* cd Pirate
+* pip install -r requirement.txt
+* python pirate.py
