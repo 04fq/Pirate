@@ -13,7 +13,7 @@
 # How To Use
 ### Linux
 * cd Desktop
-* git clone
+* git clone https://github.com/04fq/Pirate.git
 * cd Pirate
 * pip3 install -r requirement.txt
 * python3 pirate.py
